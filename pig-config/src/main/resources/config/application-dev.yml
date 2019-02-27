@@ -6,7 +6,7 @@ jasypt:
 # Spring 相关
 spring:
   redis:
-    password:
+    password: 12345678
     host: pig-redis
   jackson:
     time-zone: GMT+8
